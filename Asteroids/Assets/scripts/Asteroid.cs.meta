@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f3a3daa3354a7a4eab916ee9c9c859c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenasteroid: {fileID: 21300000, guid: 5e3e2151c109ce841972d2f27a09aea8, type: 3}
+  - magentaasteroid: {fileID: 21300000, guid: 432d1b92701ab714f89e59a52460919d, type: 3}
+  - whiteasteroid: {fileID: 21300000, guid: 8c4a34fdfdfa61d46a2e10ec90d442b2, type: 3}
+  - prefabAsteroid: {fileID: 3509510238657148301, guid: 5e21a8d2469b6e341b1264382db81e8d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
